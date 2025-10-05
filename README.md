@@ -2,9 +2,13 @@
 
 My Project shows you a quick analysis of 70+ years of NBA stats to see how the game has changed and evolved over the years.
 
+This project analyzes 70+ years of NBA data to uncover trends in player performance, physical attributes, and how the game has transformed from the post-up era to the modern three-point revolution.
 
 
-# Libraries Used:-
+
+
+
+# Technical Stack:-
 
 pandas - Data analysis and manipulation.
 
@@ -17,7 +21,7 @@ plotly - Interactive plots and graphs
 
 
 
-# What I Explored:- 
+# Statistical Explorations:- 
 
 1) Height vs Rebounds - Do taller players really grab more boards?
 
@@ -35,4 +39,15 @@ plotly - Interactive plots and graphs
 
 
 
-Check out my project to find out all the statistical data, because ball might lie, but stats dont 🏀.
+## Key Insights:-
+
+->Statistical validation of basketball fundamentals
+
+->Evolution of player roles and offensive strategies
+
+->Era-based player performances 
+
+->How Physical attributes corelate to gameplay.
+
+
+### Exploring the stories behind the statistics - where data meets basketball. 🏀📈
