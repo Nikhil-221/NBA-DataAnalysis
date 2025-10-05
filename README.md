@@ -19,9 +19,9 @@ plotly - Interactive plots and graphs
 
 # What I Explored:- 
 
-1)Height vs Rebounds - Do taller players really grab more boards?
+1) Height vs Rebounds - Do taller players really grab more boards?
 
-2)Steph Curry Effect - Shows how he revolutionized the 3 point shot compared to league average
+2) Steph Curry Effect - Shows how he revolutionized the 3 point shot compared to league average
 
 3) 3-Point Revolution - From barely used to everyone's favorite shot.
 
