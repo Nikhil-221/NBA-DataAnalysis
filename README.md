@@ -2,12 +2,18 @@
 
 My Project shows you a quick analysis of 70+ years of NBA stats to see how the game has changed and evolved over the years.
 
+
+
 # Libraries Used:-
 
 pandas - Data analysis and manipulation.
+
 numpy - Numerical computations
+
 matplotlib and seaborn - Data visualization
+
 plotly - Interactive plots and graphs
+
 
 
 
