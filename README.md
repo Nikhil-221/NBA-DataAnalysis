@@ -10,7 +10,7 @@ This project analyzes 70+ years of NBA data to uncover trends in player performa
 
 # Technical Stack:-
 
-pandas - Data analysis and manipulation.
+pandas - Data analysis and manipulation
 
 numpy - Numerical computations
 
